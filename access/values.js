@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "29.08.2004"; // Дата рождения
+var birthdate = "29.08.2003"; // Дата рождения
 var fullname = "Василів Артем Олександрович"; // ФИО
 var name = "Артем"; // Имя
 
